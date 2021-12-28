@@ -35,6 +35,6 @@ Any and all contributions, issues, features and tips are welcome.
 ### License
 **Portfolio-Template** is licence under [MIT v3.0 license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-### Contact
+### 📫Contact
 
 For any Suggestion / Ideas ping me at [@Nazir Hussain](https://www.instagram.com/nazir__hassan/)
