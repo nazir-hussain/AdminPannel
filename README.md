@@ -1,10 +1,6 @@
 # AdminPannel!
 A developer would spend an hour adjusting the padding and margin of a single button. But wouldn’t spare 15 minutes for the project description Readme file.
 
-
-<!-- # Portfolio-Template
-A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
- -->
 ### Highlights
 1. Setup is very easy and you get a AdminPannel template of your own for free.
 2. Fully Responsive and atractive AdminPannel.
